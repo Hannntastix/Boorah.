@@ -56,6 +56,7 @@ header {
 
   .teksawal {
     height: 170px;
+    backdrop-filter: blur(10px);
   }
 
   .ul-navbar {
@@ -342,6 +343,7 @@ header {
 
   .teksawal {
     height: 170px;
+    backdrop-filter: blur(10px);
   }
 
   .ul-navbar {
@@ -738,6 +740,7 @@ header {
 
   .teksawal {
     height: 170px;
+    backdrop-filter: blur(10px);
   }
 
   .ul-navbar {
@@ -866,6 +869,7 @@ header {
 
   .teksawal {
     height: 190px;
+    backdrop-filter: blur(10px);
   }
 
   .ul-navbar {
@@ -1023,6 +1027,7 @@ header {
 
   .teksawal {
     height: 200px;
+    backdrop-filter: blur(10px);
   }
 
   .ul-navbar {
@@ -1178,6 +1183,7 @@ header {
 
   .teksawal {
     height: 220px;
+    backdrop-filter: blur(10px);
   }
 
   .ul-navbar {
